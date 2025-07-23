@@ -1,0 +1,297 @@
+[
+  {
+    "name": "בי\"ס הרצפלד",
+    "address": "דובנוב 14, Holon, Israel",
+    "coords": [32.0226375, 34.7926798]
+  },
+  {
+    "name": "בי\"ס יבנה",
+    "address": "דובנוב 4, Holon, Israel",
+    "coords": [32.0226375, 34.7926798]
+  },
+  {
+    "name": "בי\"ס רעים",
+    "address": "נחמיה 13, Holon, Israel",
+    "coords": [32.0152725, 34.7963452]
+  },
+  {
+    "name": "בי\"ס התבור",
+    "address": "התבור 1, Holon, Israel",
+    "coords": [32.0200397, 34.7850256]
+  },
+  {
+    "name": "בי\"ס מיטרני",
+    "address": "שלום עליכם 5, Holon, Israel",
+    "coords": [32.0229874, 34.7844794]
+  },
+  {
+    "name": "חטיבה צומחת חנקין",
+    "address": "חנקין 109, Holon, Israel",
+    "coords": [32.0266989, 34.7792103]
+  },
+  {
+    "name": "בי\"ס רביבים",
+    "address": "השומר 21, Holon, Israel",
+    "coords": [32.0260955, 34.7783414]
+  },
+  {
+    "name": "בי\"ס דרכים",
+    "address": "קפאח 53, Holon, Israel",
+    "coords": [32.0264345, 34.7694982]
+  },
+  {
+    "name": "בי\"ס ישעיהו",
+    "address": "אחד במאי 56, Holon, Israel",
+    "coords": [32.0158759, 34.7685632]
+  },
+  {
+    "name": "בי\"ס גורדון",
+    "address": "החי\"ל 16, Holon, Israel",
+    "coords": [32.0132529, 34.7688038]
+  },
+  {
+    "name": "בי\"ס שז\"ר",
+    "address": "קדושי קהיר 18, Holon, Israel",
+    "coords": [32.0192654, 34.7634362]
+  },
+  {
+    "name": "בן צבי",
+    "address": "פנחס לבון 3, Holon, Israel",
+    "coords": [32.0091368, 34.7717343]
+  },
+  {
+    "name": "מרכז פסגה/אדם",
+    "address": "רמז 13, Holon, Israel",
+    "coords": [32.0102217, 34.7708269]
+  },
+  {
+    "name": "מרכז קהילתי נווה ארזים",
+    "address": "ישעיהו 16, Holon, Israel",
+    "coords": [32.0161213, 34.7922537]
+  },
+  {
+    "name": "מועדונית רווחה",
+    "address": "התותחנים, Holon, Israel",
+    "coords": [32.0319778, 34.7608554]
+  },
+  {
+    "name": "אמירים",
+    "address": "צדוק דוד 1, Holon, Israel",
+    "coords": [31.9961027, 34.7710363]
+  },
+  {
+    "name": "בן-גוריון",
+    "address": "גרינברג 6, Holon, Israel",
+    "coords": [31.9977002, 34.7666642]
+  },
+  {
+    "name": "המגינים",
+    "address": "חזית חמש 2, Holon, Israel",
+    "coords": [32.027825, 34.7621813]
+  },
+  {
+    "name": "דביר",
+    "address": "הסיגלון 20, Holon, Israel",
+    "coords": [32.0140669, 34.7825172]
+  },
+  {
+    "name": "ניצנים",
+    "address": "גבעת התחמושת 35, Holon, Israel",
+    "coords": [32.0058534, 34.790244]
+  },
+  {
+    "name": "שנקר",
+    "address": "אחד העם 10, Holon, Israel",
+    "coords": [32.021489, 34.7806354]
+  },
+  {
+    "name": "שער האריות",
+    "address": "שער האריות 16, Holon, Israel",
+    "coords": [32.0056506, 34.79481]
+  },
+  {
+    "name": "בי\"ס אורט",
+    "address": "פרופסור שור 2, Holon, Israel",
+    "coords": [32.0195163, 34.7903054]
+  },
+  {
+    "name": "בי\"ס אילון",
+    "address": "הכנסת 8, Holon, Israel",
+    "coords": [32.0157481, 34.7868985]
+  },
+  {
+    "name": "בי\"ס בנות יעל",
+    "address": "חזית חמש 10, Holon, Israel",
+    "coords": [32.027825, 34.7621813]
+  },
+  {
+    "name": "בי\"ס עמל",
+    "address": "הבנים 16, Holon, Israel",
+    "coords": [32.0290377, 34.7622904]
+  },
+  {
+    "name": "בי\"ס ביאליק",
+    "address": "ביאליק 21, Holon, Israel",
+    "coords": [32.0130918, 34.7722273]
+  },
+  {
+    "name": "בי\"ס בית דוד בנים",
+    "address": "ברדיצ'בסקי 9, Holon, Israel",
+    "coords": [32.0229646, 34.7676131]
+  },
+  {
+    "name": "בי\"ס עלומים",
+    "address": "פילדלפיה 6, Holon, Israel",
+    "coords": [32.0275781, 34.7625626]
+  },
+  {
+    "name": "בי\"ס עתידים",
+    "address": "ההסתדרות 20, Holon, Israel",
+    "coords": [32.0177518, 34.7685083]
+  },
+  {
+    "name": "ספריית בן יהודה",
+    "address": "אליעזר בן יהודה 18, Holon, Israel",
+    "coords": [32.0228599, 34.7796342]
+  },
+  {
+    "name": "בי\"ס נעמת",
+    "address": "קק\"ל 13, Holon, Israel",
+    "coords": [32.0068287, 34.7882092]
+  },
+  {
+    "name": "בית דוד בנות",
+    "address": "ראובן ברקת 28, Holon, Israel",
+    "coords": [32.0093074, 34.774592]
+  },
+  {
+    "name": "לווית חן",
+    "address": "ראובן ברקת 19, Holon, Israel",
+    "coords": [32.0087355, 34.7742141]
+  },
+  {
+    "name": "הראל",
+    "address": "עין גדי 16, Holon, Israel",
+    "coords": [32.0071568, 34.7629275]
+  },
+  {
+    "name": "שמגר",
+    "address": "נעמי שמר 11, Holon, Israel",
+    "coords": [32.0060635, 34.7722287]
+  },
+  {
+    "name": "קציר",
+    "address": "יצחק רבין 20, Holon, Israel",
+    "coords": [32.0024035, 34.7719163]
+  },
+  {
+    "name": "מפי עוללים",
+    "address": "שיבת ציון 1, Holon, Israel",
+    "coords": [32.0035968, 34.7639216]
+  },
+  {
+    "name": "מיתרים",
+    "address": "אילת 60, Holon, Israel",
+    "coords": [32.0090693, 34.7648144]
+  },
+  {
+    "name": "טומשין",
+    "address": "קדושי קהיר 14, Holon, Israel",
+    "coords": [32.0192654, 34.7634362]
+  },
+  {
+    "name": "חט\"ב קוגל",
+    "address": "מוטה גור 1, Holon, Israel",
+    "coords": [32.0079813, 34.7844086]
+  },
+  {
+    "name": "תיכון קוגל",
+    "address": "מוטה גור 1, Holon, Israel",
+    "coords": [32.0079813, 34.7844086]
+  },
+  {
+    "name": "יחד",
+    "address": "הערבה 80, Holon, Israel",
+    "coords": [32.011739, 34.7630783]
+  },
+  {
+    "name": "עוז",
+    "address": "שיבת ציון 1, Holon, Israel",
+    "coords": [32.0035968, 34.7639216]
+  },
+  {
+    "name": "חט\"ב הייטק היי",
+    "address": "ירמיהו 16, Holon, Israel",
+    "coords": [32.0178183, 34.7946463]
+  },
+  {
+    "name": "מתיא",
+    "address": "נחמיה 13, Holon, Israel",
+    "coords": [32.0152725, 34.7963452]
+  },
+  {
+    "name": "אריאל שרון",
+    "address": "פנחס אילון 20, Holon, Israel",
+    "coords": [32.0089663, 34.7881593]
+  },
+  {
+    "name": "ניב",
+    "address": "שער ציון 9, Holon, Israel",
+    "coords": [32.0096158, 34.7878968]
+  },
+  {
+    "name": "מינהל החינוך",
+    "address": "ויצמן 61, Holon, Israel",
+    "coords": [32.0220986, 34.7758932]
+  },
+  {
+    "name": "ישורון",
+    "address": "בן יהודה 7, Holon, Israel",
+    "coords": [32.0229077, 34.7798666]
+  },
+  {
+    "name": "אשלים",
+    "address": "מקלף 14, Holon, Israel",
+    "coords": [31.9990133, 34.7689347]
+  },
+  {
+    "name": "אשכול",
+    "address": "מרבד הקסמים 9, Holon, Israel",
+    "coords": [32.0128266, 34.7939201]
+  },
+  {
+    "name": "דינור",
+    "address": "זלמן ארן 4, Holon, Israel",
+    "coords": [32.0187614, 34.7674104]
+  },
+  {
+    "name": "שזר",
+    "address": "קדושי קהיר 18, Holon, Israel",
+    "coords": [32.0192654, 34.7634362]
+  },
+  {
+    "name": "זלמן ארן",
+    "address": "ששת הימים 23, Holon, Israel",
+    "coords": [32.0079083, 34.7953174]
+  },
+  {
+    "name": "משה שרת",
+    "address": "יום הכיפורים 14, Holon, Israel",
+    "coords": [32.0077778, 34.7885556]
+  },
+  {
+    "name": "קרית שרת",
+    "address": "גבעת התחמושת 23, Holon, Israel",
+    "coords": [32.0058534, 34.790244]
+  },
+  {
+    "name": "הרצוג",
+    "address": "ברקן 18, Holon, Israel",
+    "coords": [32.030336, 34.7631859]
+  },
+  {
+    "name": "כצנלסון",
+    "address": "אליעזר קפלן 17, Holon, Israel",
+    "coords": [32.0266275, 34.7721859]
+  }
+]
